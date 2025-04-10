@@ -19,3 +19,21 @@ A basic **CRUD (Create, Read, Update, Delete)** API built with **Node.js** and *
 
 simple-crud-app-backend/ ├── node_modules/ ├── server.js ├── package.json └── README.md
 
+
+## 🛠️ How to Use
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/Mohammed-Saeed111/simple-crud-app-backend.git
+cd simple-crud-app-backend
+
+
+2. Install dependencies:
+npm install
+
+3. Start the server:
+npm run dev
+
+
+
