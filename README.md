@@ -2,10 +2,6 @@
 
 A basic **CRUD (Create, Read, Update, Delete)** API built with **Node.js** and **Express**. This backend app provides RESTful endpoints to manage user data (or any resource) and can be easily connected to a frontend or tested using tools like Postman.
 
-## 🚀 Live API (Optional)
-
-> _(Add your live API URL if deployed, e.g., Render or Vercel Serverless)_
-
 ## ⚙️ Tech Stack
 
 - **Node.js** – Runtime environment
